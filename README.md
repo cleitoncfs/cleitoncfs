@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou Cleiton Santos 👋
 
-<!--
-**cleitoncfs/cleitoncfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web apaixonado por JavaScript, React.js, Vue.js, Node.js, Python, PHP e SQL.
 
-Here are some ideas to get you started:
+🌐 Meu portfólio: [portfolio-cleiton.netlify.app](https://portfolio-cleiton.netlify.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Estatísticas do GitHub:
+![Cleiton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitoncfs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncfs&layout=compact&theme=dracula)
+
+📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cleitoncfs)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/seuusuario)
