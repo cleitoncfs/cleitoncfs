@@ -1,3 +1,5 @@
+📘 [English version](README.en.md)
+
 # Olá! Eu sou Cleiton Santos 👋
 
 💻 Desenvolvedor de websites e aplicações com experiência completa no ciclo de desenvolvimento — da definição de regras de negócio e levantamento de requisitos até o deploy e manutenção.  
