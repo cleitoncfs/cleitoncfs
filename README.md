@@ -44,6 +44,7 @@
 - **Suporte Técnico Operacional** – Oi Telecom (2015–2019)
 
 🎓 **Formações**:
-- MBA em Gestão Estratégica de Pessoas – Estácio  
+- MBA em Gestão Estratégica de Pessoas – Estácio
+- Formação Profissional em Web Development – Master D Portugal
 - Formação Full Stack – DevMedia  
 - Certificação em Criação de Sites e Landing Pages – DevMedia
