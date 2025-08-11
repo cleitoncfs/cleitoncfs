@@ -41,6 +41,7 @@
 - **Technical Support** – Oi Telecom (2015–2019)
 
 🎓 **Education**:
-- MBA in Strategic People Management – Estácio  
+- MBA in Strategic People Management – Estácio
+- Professional Training in Web Development – Master D Portugal
 - Full Stack Developer Training – DevMedia  
 - Certification in Website and Landing Page Creation – DevMedia
